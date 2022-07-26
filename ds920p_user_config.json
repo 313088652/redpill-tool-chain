@@ -3,7 +3,7 @@
         "pid": "0x1000",
         "vid": "0x090c",
         "sn": "2150SBRGG5RVH",
-        "mac1": "001132AFFC38"
+        "mac1": "001132AFFC38",
                "SataPortMap": "4",
               "DiskIdxMap": "00"
   },
