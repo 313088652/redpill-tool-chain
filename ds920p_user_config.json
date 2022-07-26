@@ -1,0 +1,21 @@
+{
+    "extra_cmdline": {
+        "pid": "0x1000",
+        "vid": "0x090c",
+        "sn": "2150SBRGG5RVH",
+        "mac1": "001132AFFC38"
+               "SataPortMap": "4",
+              "DiskIdxMap": "00"
+  },
+  "synoinfo": {
+    "internalportcfg": "0xffffff",
+    "maxdisks": "16",
+    "usbportcfg": "0x0",
+    "esataportcfg": "0x0",
+    "support_bde_internal_10g": "no",
+    "support_disk_compatibility": "no",
+    "support_memory_compatibility": "no"
+  },
+    "ramdisk_copy": {},
+    "extensions": []
+}
