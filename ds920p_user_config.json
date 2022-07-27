@@ -8,9 +8,9 @@
         "DiskIdxMap": "00"
     },
     "synoinfo": {
-        "internalportcfg": "0xffffff",
+        "internalportcfg": "0x78ff",
         "maxdisks": "16",
-        "usbportcfg": "0x0",
+        "usbportcfg": "0x87ff",
         "esataportcfg": "0x0",
         "support_bde_internal_10g": "no",
         "support_disk_compatibility": "no",
