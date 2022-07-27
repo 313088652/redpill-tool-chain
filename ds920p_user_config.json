@@ -4,18 +4,18 @@
         "vid": "0x090c",
         "sn": "1860PDN012190",
         "mac1": "001132853E00",
-               "SataPortMap": "4",
-              "DiskIdxMap": "00"
-  },
-  "synoinfo": {
-    "internalportcfg": "0xffffff",
-    "maxdisks": "16",
-    "usbportcfg": "0x0",
-    "esataportcfg": "0x0",
-    "support_bde_internal_10g": "no",
-    "support_disk_compatibility": "no",
-    "support_memory_compatibility": "no"
-  },
+        "SataPortMap": "4",
+        "DiskIdxMap": "00"
+    },
+    "synoinfo": {
+        "internalportcfg": "0xffffff",
+        "maxdisks": "16",
+        "usbportcfg": "0x0",
+        "esataportcfg": "0x0",
+        "support_bde_internal_10g": "no",
+        "support_disk_compatibility": "no",
+        "support_memory_compatibility": "no"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
