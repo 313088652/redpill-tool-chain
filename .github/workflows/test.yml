@@ -202,7 +202,7 @@ jobs:
           ./redpill_tool_chain.sh add https://github.com/pocopico/redpill-load/raw/master/redpill-dtb/rpext-index.json
           ./redpill_tool_chain.sh add https://github.com/pocopico/redpill-load/raw/develop/redpill-misc/rpext-index.json
 
-          ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/main/rpext-index.json
+          # ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/main/rpext-index.json
 
 
 
