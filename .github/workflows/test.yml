@@ -136,7 +136,7 @@ jobs:
           ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb/rpext-index.json
           ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/rpext-index.json
           ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/rpext-index.json
-          ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4/rpext-index.json
+
 
 
           ./redpill_tool_chain.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/dtb-patch/rpext-index.json
