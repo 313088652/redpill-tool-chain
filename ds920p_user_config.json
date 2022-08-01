@@ -4,7 +4,7 @@
         "vid": "0x090c",
         "sn": "1860PDN012190",
         "mac1": "001132853E00",
-        "SataPortMap": "4",
+        "SataPortMap": "0",
         "DiskIdxMap": "00"
     },
     "synoinfo": {
